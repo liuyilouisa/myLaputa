@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/LighteningCloud.png</file>
+        <file>res/Fighter.png</file>
+        <file>res/SnowCloud.png</file>
+        <file>res/SunCloud.png</file>
+        <file>res/Raindrop.png</file>
+        <file>res/SnowFlake.png</file>
+        <file>res/Airship.png</file>
+        <file>res/Laputa.png</file>
+        <file>res/Rocket.png</file>
+        <file>res/shop.png</file>
+        <file>res/DayBackground.png</file>
+        <file>res/NightBackground.png</file>
+        <file>res/RainbowBackground.png</file>
+        <file>res/BlockCloud.png</file>
+        <file>res/Card.png</file>
+        <file>res/Sun.png</file>
+        <file>res/RainCloud.png</file>
+        <file>res/GG.png</file>
+        <file>res/Button.png</file>
+        <file>res/Laputa.jpg</file>
+        <file>res/button1.mp3</file>
+        <file>res/menu1.mp3</file>
+        <file>res/menu2.mp3</file>
+        <file>res/drop.mp3</file>
+        <file>res/thunder.mp3</file>
+        <file>res/sun.mp3</file>
+        <file>res/level-up.mp3</file>
+    </qresource>
+</RCC>
