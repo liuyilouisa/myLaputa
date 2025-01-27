@@ -107,10 +107,10 @@ void GameWidget::addPlane(){
         if (++low > high)
         {
             maxtime /= 2;
-            high *= 2;
+            high *= 1.5;
         }
         counter = 0;
-        static std::uniform_int_distribution<> randomTime(maxtime/3, maxtime);
+        static std::uniform_int_distribution<> randomTime(maxtime/5, maxtime);
         static std::uniform_int_distribution<> randomType(1, 100);
         static std::uniform_int_distribution<> randomColumn(0, 4);
         time = randomTime(gen);
